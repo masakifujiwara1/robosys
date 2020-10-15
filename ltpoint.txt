@@ -1,0 +1,2 @@
+*gitの使い方を知る(add,commit,pushなど)
+*gitのbranchの役割を知る
